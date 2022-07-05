@@ -2,7 +2,7 @@
 
 This repo aims to create a docker image for [hugo](https://gohugo.io) with as few codes as possible.
 
-It is based on (jojomi's](https://github.com/jojomi/docker-hugo/) work.
+It is based on [jojomi's](https://github.com/jojomi/docker-hugo/) work.
 
 It's encouraged to modify the Dockerfile and build your own.
 
